@@ -1,4 +1,4 @@
-# TC016 – Successful Order Placement and Payment
+# TC014 – Successful Order Placement and Payment
 
 **Title:** Complete an order with valid payment and shipping details  
 **Precondition:** User is logged in and has product(s) in cart  
