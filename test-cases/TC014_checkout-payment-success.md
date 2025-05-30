@@ -1,8 +1,8 @@
-# TC014 – Successful Order Placement and Payment
+TC014 – Successful Order Placement and Payment
 
-**Title:** Complete an order with valid payment and shipping details  
-**Precondition:** User is logged in and has product(s) in cart  
-**Test Steps:**
+Title: Complete an order with valid payment and shipping details  
+Precondition: User is logged in and has product(s) in cart  
+Test Steps:
 1. Go to https://automationexercise.com
 2. Log in with valid credentials
 3. Add a product to the cart
@@ -17,5 +17,5 @@
    - Expiry: `12/29`
 9. Click “Pay and Confirm Order”
 
-**Expected Result:** Order is successfully placed, user sees “Your order has been placed successfully!”  
-**Postcondition:** Cart is emptied, order is saved to user history
+Expected Result: Order is successfully placed, user sees “Your order has been placed successfully!”  
+Postcondition: Cart is emptied, order is saved to user history
